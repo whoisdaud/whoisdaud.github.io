@@ -1,0 +1,17 @@
+body{
+    background-color: #eaf6f6;
+}
+hr{
+    border:none;
+    border-top:5px dotted #dbe2ef;
+    height:5px;
+    width:5%;
+}
+img{
+    border-radius: 50%;
+}
+h1 ,h3{
+    color: #11cbd7;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
